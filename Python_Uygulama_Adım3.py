@@ -1,3 +1,4 @@
+# Kırpılmıs videodaki kişilerin tespit edilip tespit edilen kişi sayısının video üzerine yazılması 
 from ultralytics import YOLO
 import cv2
 import cvzone
